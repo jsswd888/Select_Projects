@@ -7,7 +7,10 @@ This repository displays some of the selected project's demos, and also included
 
 Some of the course descriptions may also helpful for fellow UW-Madison students who is intending to take certain courses to understand what will be taught on each of these courses, in more detail. 
 
-## Directed Reading Program (Ongoing!)
+## EasyVizAR (Ongoing)
+This project aims to created indoor navigation application operated on an Augmented Reality Platform for first responders. My responsibility in this project is signboard creation, which includes C# coding, Unity interactions, etc. 
+
+## Directed Reading Program (Ongoing)
 This is one of the latest project that I am independently working on starting Sept. 2023. The program is managed by UW-Madison Dept. of Mathematics, and my mentor is Dr. Hyun Jong Kim. The plan is to build up a machine learning model that could possibly give predictions of stock price tendency. Namely, I focused on Nasdaq Index. All the training / validation data comes from Nasdaq's historical price, and the model is trained in way of image classification. 
 
 The link to this project's repository can be found [here](https://github.com/jsswd888/DRP)
