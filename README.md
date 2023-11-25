@@ -13,7 +13,7 @@ This project aims to created indoor navigation application operated on an Augmen
 ## Directed Reading Program (Ongoing)
 This is one of the latest project that I am independently working on starting Sept. 2023. The program is managed by UW-Madison Dept. of Mathematics, and my mentor is Dr. Hyun Jong Kim. The plan is to build up a machine learning model that could possibly give predictions of stock price tendency. Namely, I focused on Nasdaq Index. All the training / validation data comes from Nasdaq's historical price, and the model is trained in way of image classification. 
 
-The link to this project's repository can be found [here](https://github.com/jsswd888/DRP)
+The link to this project's repository can be found [here](https://github.com/jsswd888/Stock_Prediction)
 
 ## Senior Software Design Capstone (CS 639)
 [Indoor Navigation & Management](https://youtu.be/CVSxbtZ2RQg)
