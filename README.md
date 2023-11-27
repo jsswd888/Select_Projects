@@ -10,10 +10,15 @@ Some of the course descriptions may also helpful for fellow UW-Madison students 
 ## EasyVizAR (Ongoing)
 This project aims to created indoor navigation application operated on an Augmented Reality Platform for first responders. My responsibility in this project is signboard creation, which includes C# coding, Unity interactions, etc. 
 
+Due to the nature of this project there is no demo available. Briefly speaking I have created some navigation signboards that displays **Destiination, Direction, Distance**. Distance and Direction are dynamically calculated based on the designated NavMesh Algorithm, and hence users could get clear instruction of where to go. The signboard is created based on **Unity Prefab** and we make sure whenever user paste the signboard they will be able to see the latest direction & distance information.
+
+Next step will be migrate prototype we have on Unity to implement application on **HoloLens**; after that we are expected to conduct some usability experiement and evaluation to find the optimal, user-friendly design.
+
 ## Directed Reading Program (Ongoing)
-This is one of the latest project that I am independently working on starting Sept. 2023. The program is managed by UW-Madison Dept. of Mathematics, and my mentor is Dr. Hyun Jong Kim. The plan is to build up a machine learning model that could possibly give predictions of stock price tendency. Namely, I focused on Nasdaq Index. All the training / validation data comes from Nasdaq's historical price, and the model is trained using LSTM.
+This is one of the latest project that I am independently working on starting Sept. 2023. The program is managed by UW-Madison Dept. of Mathematics, and my mentor is Hyun Jong Kim. The plan is to build up a machine learning model that could possibly give predictions of stock price tendency. Namely, I focused on Nasdaq Index. All the training / validation data comes from Nasdaq's historical price, and the model is trained using LSTM.
 
 The link to this project's repository can be found [here](https://github.com/jsswd888/Stock_Prediction)
+The presentation slides (TO BE FINISHED BEFORE DEC. 6) will be available here.
 
 ## Senior Software Design Capstone (CS 639)
 [Indoor Navigation & Management](https://youtu.be/CVSxbtZ2RQg)
