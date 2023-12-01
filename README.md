@@ -1,9 +1,13 @@
-# Clarification to Graduation School Admission Officers:
+# Clarification to Harvard SEAS Admission Officers:
 
-If you are lookiing at my Course history, you may notice that I fill in a grade "A" for the following course:
+I have sent a reminder email to SEAS admission office and full details are written here:
+
+In my submitted application, at **Academic History - Courses** section , you may notice the following course's information:
 - Summer 2023 / 06-2023; COMP SCI 577: Introduction to Algorithms; A
 
-Note that I take this course at another institution during summer 2023 (University of Illinois, Chicago), and receive a grade of A. This course has been transfer back to my home institution (University of Wisconsin - Madison), and on my UW-Madison's transcript this course's grade is shown as "T".
+**This course need additional clarification.**
+
+During Summer 2023, I take this course at University of Illinois, Chicago, and receive a grade of A. This course has been transfer back to my home institution (University of Wisconsin - Madison), and that is why on my UW-Madison's transcript this course's grade is shown as "T". But actually, I earned a grade of A at University of Illinois, Chicago.
 
 I have attached my University of Illinois, Chicago unofficial transcriprt in this repository. Please check `uic_unofficial_transcript.pdf` for reference. Note that the course's information at UIC is as:
 - Summer 2023 / 06-2023; CS 401: Computer Algorithms I; A
