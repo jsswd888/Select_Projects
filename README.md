@@ -8,7 +8,7 @@ Note that I take this course at another institution during summer 2023 (Universi
 I have attached my University of Illinois, Chicago unofficial transcriprt in this repository. Please check `uic_unofficial_transcript.pdf` for reference. Note that the course's information at UIC is as:
 - Summer 2023 / 06-2023; CS 401: Computer Algorithms I; A
 
-Please contact [this email address](mailto::shikw0414@outlook.com) for any of your concerns and details.
+Please contact [shikw + 0414 + AT + outlook + DOT + com](mailto::shikw0414@outlook.com) for any of your concerns and details.
 
 
 # Selected Projects
