@@ -1,4 +1,4 @@
-# Clarification to Any Admission Officers:
+# Clarification to Any Graduation School Admission Officers:
 
 If you are lookiing at my Course history, you may notice that I fill in a grade "A" for the following course:
 - Summer 2023 / 06-2023; COMP SCI 577: Introduction to Algorithms; A
