@@ -1,3 +1,16 @@
+# Clarification to Any Admission Officers:
+
+If you are lookiing at my Course history, you may notice that I fill in a grade "A" for the following course:
+- Summer 2023 / 06-2023; COMP SCI 577: Introduction to Algorithms; A
+
+Note that I take this course at another institution during summer (University of Illinois, Chicago), and receive a grade of A. This course has been transfer back to my home institution (University of Wisconsin - Madison), and on my UW-Madison's transcript this course's grade is shown as "T".
+
+I have attached my University of Illinois, Chicago unofficial transcriprt in this repository. Please check `uic_unofficial_transcript.pdf` for reference. Note that the course's information at UIC is as:
+- Summer 2023 / 06-2023; CS 401: Computer Algorithms I; A
+
+Please contact [this email address](mailto::shikw0414@outlook.com) for any of your concerns and details.
+
+
 # Selected Projects
 
 This repository displays some of the selected project's demos, and also included some description writeups regarding to a couple Computer Science courses that I've taken so far. The aim of creating this repository is to help employers better understand:
