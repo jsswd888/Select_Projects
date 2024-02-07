@@ -1,4 +1,4 @@
-Please contact [shikw + 0414 + AT + outlook + DOT + com](mailto::shikw0414@outlook.com) for any of your concerns and details. I am so apologize for the inconvenience.
+Please contact [shikw + 0414 + AT + outlook + DOT + com](mailto::shikw0414@outlook.com) for any of your concerns and details.
 
 
 # Selected Projects
