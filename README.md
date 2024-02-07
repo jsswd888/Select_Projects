@@ -17,7 +17,7 @@ Due to the nature of this project there is no demo available. Briefly speaking I
 
 Next step will be migrate prototype we have on Unity to implement application on **HoloLens**; after that we are expected to conduct some usability experiement and evaluation to find the optimal, user-friendly design.
 
-## Directed Reading Program (Ongoing)
+## Directed Reading Program 
 This is one of the latest project that I am independently working on starting Sept. 2023. The program is managed by UW-Madison Dept. of Mathematics, and my mentor is Hyun Jong Kim. The plan is to build up a machine learning model that could possibly give predictions of stock price tendency. Namely, I focused on Nasdaq Index. All the training / validation data comes from Nasdaq's historical price, and the model is trained using LSTM.
 
 The link to this project's repository can be found [here](https://github.com/jsswd888/Stock_Prediction)
